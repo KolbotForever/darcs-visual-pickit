@@ -22,4 +22,4 @@ A modern, visual Graphical User Interface (GUI) for editing and managing Diablo 
 ### Running from Source
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/kolbotforever/darcs-visual-pickit.git](https://github.com/YourUsername/darcs-visual-pickit.git)
+   git clone [https://github.com/kolbotforever/darcs-visual-pickit.git](https://github.com/Kolbotforever/darcs-visual-pickit.git)
