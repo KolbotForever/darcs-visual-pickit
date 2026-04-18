@@ -1,0 +1,6 @@
+; Auto-generated from release_metadata.py
+#define MyAppName "Darc's Visual Pickit"
+#define MyAppVersion "0.2.02"
+#define MyAppPublisher "KolbotForever"
+#define MyAppExeName "DarcsVisualPickit.exe"
+#define MyAppURL "https://github.com/KolbotForever/darcs-visual-pickit/releases"

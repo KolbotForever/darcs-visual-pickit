@@ -1,0 +1,16 @@
+{
+    "save": "<Control-s>",
+    "new_rule": "<Control-n>",
+    "syntax_check": "<Control-k>",
+    "load_folder": "<Control-o>",
+    "undo": "<Control-z>",
+    "numeric_stat_id_map": {},
+    "recent_files": [],
+    "max_recent_files": 10,
+    "auto_check_updates": true,
+    "update_check_interval_hours": 24,
+    "last_update_check_utc": "2026-03-26T07:01:45-07:00",
+    "skipped_update_version": "",
+    "performance_mode": true,
+    "performance_page_size": "10 / page"
+}
